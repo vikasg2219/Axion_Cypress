@@ -1,0 +1,10 @@
+{
+    "validCredentials": {
+      "email": "vikas.g@axionray.com",
+      "password": "Vikas@1999"
+    },
+    "invalidCredentials": {
+      "email": "invalid-email@axionray.com",
+      "password": "invalidpassword"
+    }
+}
